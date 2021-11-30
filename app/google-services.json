@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "269775162678",
+    "project_id": "dmtransfert-c8fb5",
+    "storage_bucket": "dmtransfert-c8fb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269775162678:android:5195df34591f8cd2efb797",
+        "android_client_info": {
+          "package_name": "mobile.direct.transfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269775162678-l90q8rvm0944d6kmtpokaflkjmh6rr4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobile.direct.transfer",
+            "certificate_hash": "f44d30e690e39369abbd9a6409a2d0fb3472f06e"
+          }
+        },
+        {
+          "client_id": "269775162678-gr0e1kllnsnn266ock9iad6i2de383li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeqrvpG9jQHiNf277RUD0Ijw4oYnx8pb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269775162678-gr0e1kllnsnn266ock9iad6i2de383li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
